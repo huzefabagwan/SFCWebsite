@@ -5,6 +5,9 @@ export const metadata = {
   title: 'Banana Cold Storage - Premium Storage Solutions',
   description: 'Professional banana cold storage and ripening services with controlled temperature, hygiene, and quality assurance for farmers, traders, and wholesalers.',
   keywords: 'banana cold storage, banana ripening, cold storage services, agricultural storage, banana warehouse',
+  verification: {
+    google: 'fskwl5u7xnM02Dw3l5YzXeRFdviSaCbrWu4GYKjz25M',
+  },
   openGraph: {
     title: 'Banana Cold Storage',
     description: 'Premium cold storage and ripening services for bananas.',
